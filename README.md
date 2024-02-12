@@ -6,4 +6,4 @@
 
 - Next.js (App Router)
 - Tailwind CSS
-- Serwist (PWA, Service Workers)
+- Serwist (PWA, Service Worker)
